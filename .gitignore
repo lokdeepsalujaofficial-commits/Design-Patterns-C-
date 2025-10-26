@@ -1,0 +1,11 @@
+# Compiled binaries (executables without extensions)
+/[0-9]*-*/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# .NET build artifacts
+**/bin/
+**/obj/
+
